@@ -1,5 +1,6 @@
 import collections
 class Solution:
+    """ Leetcode 621 fuxxing hellllll  """
     def leastInterval(self, tasks: List[str], n: int) -> int:
         counter = collections.Counter(tasks)
         result = 0
