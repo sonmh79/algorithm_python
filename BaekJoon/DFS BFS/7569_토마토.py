@@ -39,3 +39,7 @@ def bfs(trip):
     return t - 1
     
 print(bfs(trip))
+
+"""
+    3차원 그래프
+"""
