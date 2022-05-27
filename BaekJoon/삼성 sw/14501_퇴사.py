@@ -22,4 +22,4 @@ for i in range(1, N + 1):
     else:
         dp[i] = dp[i - 1]
 
-print(dp)
+print(dp[-1])
